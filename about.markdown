@@ -23,3 +23,5 @@ I don't want to give you a personalized experience. I don't need to know how muc
 
 Here you can find the things that I find unjust, immoral, hurtful, and I feel the urgue to raise them, act against them.
 You can also find the things that I find interesting. 
+
+Check out [how I'm degoogling my life [WIP]](/2022-06-27-how-im-degoogling-my-life)
