@@ -21,6 +21,10 @@ This is a static site built by [Jekyll](https://jekyllrb.com/). There are no tra
 nor [I should be allowed ever to have it](https://www.theguardian.com/commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-surveillance).
 I don't want to give you a personalized experience. I don't need to know how much *view*, or *likes* my content received.
 
+You can find the source code for Minima at GitHub: [jekyll](https://github.com/jekyll) / [minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub: [jekyll](https://github.com/jekyll) / [jekyll](https://github.com/jekyll/jekyll)
+
 Here you can find the things that I find unjust, immoral, hurtful, and I feel the urgue to raise them, act against them.
 You can also find the things that I find interesting. 
 
