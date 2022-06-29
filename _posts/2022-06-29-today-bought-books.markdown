@@ -67,7 +67,7 @@ you understand, more or less, that what Hemingway talked about in the book:
 
 This quartet consists of: **Justine**, **Balthazar**, **Mountolive**, and **Clea**.
 I have no idea what the books are, nor I have read any work by Durrell. This one
-is a recommendation from Sahel.
+is a recommendation from [Sahel](https://www.instagram.com/sahelsworld/).
 
 **Justine**, **Balthazar**, and **Clea** are published by Pocket Books in the 60s, where the covers were
 hand-drawn, sometimes cheesy paintings of the characters, and the places in the books. A warning is printed
