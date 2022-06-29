@@ -63,7 +63,7 @@ title: Today Bought Books
     >
     >     The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
 
-3.     **The Alexandria Quartet** *by Lawrence Durrell*
+3. **The Alexandria Quartet** *by Lawrence Durrell*
 
     This quartet consists of: **Justine**, **Balthazar**, **Mountolive**, and **Clea**.
     I have no idea what the books are, nor I have read any work by Durrell. This one
