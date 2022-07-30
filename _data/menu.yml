@@ -5,6 +5,7 @@ entries:
       show_more: true
       show_more_text: - More -
       show_more_url: archive.html
+
   - title: rss
     url: feed.xml
 
