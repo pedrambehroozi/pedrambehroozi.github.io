@@ -28,7 +28,7 @@ twitter_username: pedrambehroozi
 github_username:  pedrambehroozi
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
