@@ -8,9 +8,9 @@ November last year, Daniel Ek, Spotify co-founder, [announced](https://techcrunc
 Back then, when I read it in the news, I decided to delete my Spotify account. I just heard that Helsing develops AI software in defence areas, and I didn't want my money to be invested
 in those areas. This is not right, I believe.
 
-I often listen(ed) to music while working. It helps me focus, and it removes the surrounding noise. The other day I realized I haven't listened to very few music
+I often listen(ed) to music while working. It helps me focus, and it removes the surrounding noise. The other day I realized I have listened to very few music
 at work, since I couldn't find any better service than Spotify to just put on the music and go. I tried Youtube Music for a while but I didn't like it, and... that was it.
-There were no other services like it. So I decided to give spotify another change. I looked Helsing up.
+There were no other services like it. So I decided to give spotify another chance. I looked Helsing up.
 
 It is not clear what Helsing does. Their website says Helsing is a new type of defence and artificial intelligence company:
 
@@ -38,7 +38,9 @@ And what are the prototypes of the new defence platforms you are going to work o
 
 Correct. But we need to ask questions constantly. Who defined, and who defines, these values? Who's going to protect them? What happens in the case of conflict? How your AI understands and learns these values? [What if they were wrong?](https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/)
 
-## But I missed listening to music
+## End note
 
-I gave up the idea of streaming the music. When I listen to a [talented musician in the street](https://standwhereistood.files.wordpress.com/2018/07/dscf8874.jpg?w=1024), I don't want to run and pay some company, and hope they'd pay the musician good share of my money.
-I want to support the musician directly. And quite frankly, I hate commercial music.
+I think I did the right thing to abandon spotify.
+After trying Youtube Music, I gave up the idea of streaming music completely. Spotify, Apple Music, Youtube Music, Amazon Music, they all [sell adds, not music](https://getpocket.com/read/3230893547). I want to give my money to the band and the musician, not the big companies. I have [a musician friend](https://wavesofficial.bandcamp.com/) and I don't want him to struggle ordering food.
+
+So I'm using [bandcamp](https://bandcamp.com) now and I'm paying for the music I buy. Bandcamp [has a fair trade music policy](https://bandcamp.com/fair_trade_music_policy) which I like. The only catch is it is difficult to find new music based on your likings, which is quite ok in my opinion. Everyone should search to find their music. It's clearly the right way.
