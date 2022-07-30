@@ -28,7 +28,7 @@ twitter_username: pedrambehroozi
 github_username:  pedrambehroozi
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
