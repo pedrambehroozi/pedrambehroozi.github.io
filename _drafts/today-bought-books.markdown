@@ -11,4 +11,4 @@ title: Today Bought Books
 
 4. **The Torn Apart Monologue of Your Poet** *by Akbar Sardouzami*
 
-5. **Failings of Men** *by Bibi Khanoom Astarabadi*
+5. **Vices of Men** *by Bibi Khanoom Astarabadi*
